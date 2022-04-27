@@ -1,0 +1,1 @@
+export { readInfo } from './readInfo';
