@@ -1,11 +1,1 @@
-[{
-    "sender": "Guy",
-    "receiver": "Hadas",
-    "content": "developer roadmap",
-    "timestamp": "21.4.2022, 21:33:38"
-},
-{"sender": "Shani",
-    "receiver": "Hadas",
-    "content": "Postman training",
-    "timestamp":"21.4.2022, 23:28:07"}
-]
+[{"sender":"Guy","receiver":"Hadas","content":"developer roadmap","timestamp":"21.4.2022, 21:33:38"},{"sender":"Shani","receiver":"Hadas","content":"Postman training","timestamp":"21.4.2022, 23:28:07"},{"sender":"Hadas","receiver":"Hadas","content":"Got to be better","timestamp":"29.4.2022, 13:03:52"},{"sender":"Hadas","receiver":"Hadas","content":"Yay","timestamp":"29.4.2022, 13:06:52"},{"sender":"Hadas","receiver":"Hadas","content":"Yay"},{"sender":"Hadas","receiver":"Hadas","content":"Barry Saharov","timestamp":"30.4.2022, 17:49:30"},{"sender":"Guy","receiver":"Hadas","content":"react redux","timestamp":"30.4.2022, 17:50:32"},{"sender":"Hadas","receiver":"Hadas","content":"just do not go","timestamp":"30.4.2022, 17:55:17"},{"sender":"Hadas","receiver":"Hadas","content":"just do not go, please","timestamp":"30.4.2022, 17:55:35"},{"sender":"Hadas","receiver":"Hadas","content":"Jonathan, go home","timestamp":"30.4.2022, 18:14:16"}]
